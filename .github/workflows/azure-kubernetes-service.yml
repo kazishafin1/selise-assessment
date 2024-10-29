@@ -39,7 +39,7 @@ env:
   CONTAINER_NAME: "app"
   RESOURCE_GROUP: "devops-assessment-rg"
   CLUSTER_NAME: "selise-assessment-cluster"
-  DEPLOYMENT_MANIFEST_PATH: "your-deployment-manifest-path"
+  DEPLOYMENT_MANIFEST_PATH: "deployment"
 
 jobs:
   buildImage:
